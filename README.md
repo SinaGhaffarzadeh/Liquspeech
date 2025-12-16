@@ -75,11 +75,3 @@ frontend/
     └── hooks/               # Custom React hooks
         └── useWebSocket.ts       # WebSocket connection management
 ```
-
-
-- [ ] Voice activity detection
-- [ ] Custom wake words
-
----
-
-**Built with ❤️ using React, TypeScript, Vite, and Spline**
